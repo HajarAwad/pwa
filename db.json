@@ -1,0 +1,24 @@
+{
+"products" : [
+[{"id":1,"name":"Eastern box turtle","category":"Violet"},
+{"id":2,"name":"Lily trotter","category":"Red"},
+{"id":3,"name":"Bird, black-throated butcher","category":"Aquamarine"},
+{"id":4,"name":"Little heron","category":"Green"},
+{"id":5,"name":"Whale, baleen","category":"Blue"},
+{"id":6,"name":"Eastern quoll","category":"Mauv"},
+{"id":7,"name":"White-necked raven","category":"Mauv"},
+{"id":8,"name":"Pelican, eastern white","category":"Orange"},
+{"id":9,"name":"Javanese cormorant","category":"Teal"},
+{"id":10,"name":"Sheep, red","category":"Puce"},
+{"id":11,"name":"Eagle, pallas's fish","category":"Aquamarine"},
+{"id":12,"name":"Mandras tree shrew","category":"Blue"},
+{"id":13,"name":"Squirrel, thirteen-lined","category":"Khaki"},
+{"id":14,"name":"Red meerkat","category":"Crimson"},
+{"id":15,"name":"Snake, carpet","category":"Yellow"},
+{"id":16,"name":"River wallaby","category":"Puce"},
+{"id":17,"name":"Baboon, savanna","category":"Red"},
+{"id":18,"name":"Eastern grey kangaroo","category":"Pink"},
+{"id":19,"name":"Land iguana","category":"Purple"},
+{"id":20,"name":"Mockingbird, galapagos","category":"Yellow"}]
+]
+}
